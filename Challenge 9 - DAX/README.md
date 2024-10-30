@@ -6,6 +6,8 @@ Este projeto é parte do desafio de construção de um modelo de dados utilizand
 
 Criar um modelo de dados estruturado no formato star schema, que envolve a construção de tabelas de dimensão e fato com base em uma tabela única (`Financial Sample`). O projeto visa a criação de uma estrutura para armazenar e analisar informações de vendas, produtos, descontos, calendário e demais detalhes, conforme descrito abaixo.
 
+![RawData](link-para-imagem)
+
 ## Estrutura do Projeto
 
 O projeto consiste nas seguintes tabelas:
@@ -43,9 +45,9 @@ O projeto consiste nas seguintes tabelas:
 4. **Transformações e Cálculos DAX**:
    - Foram utilizadas funções DAX para agregações e filtros, além de condicional para criação de índices e organização de colunas.
 
-## Imagem do Esquema em Estrela
+## Imagem do Esquema em Snowflake
 
-![Star Schema Diagram](link-para-imagem)
+![Snowflake Schema Diagram](link-para-imagem)
 
 ## Funcionalidades e DAX Utilizadas
 
