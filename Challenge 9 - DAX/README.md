@@ -6,7 +6,7 @@ Este projeto é parte do desafio de construção de um modelo de dados utilizand
 
 Criar um modelo de dados estruturado no formato star schema, que envolve a construção de tabelas de dimensão e fato com base em uma tabela única (`Financial Sample`). O projeto visa a criação de uma estrutura para armazenar e analisar informações de vendas, produtos, descontos, calendário e demais detalhes, conforme descrito abaixo.
 
-![RawData](link-para-imagem)
+![RawData](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%209%20-%20DAX/img/raw.png)
 
 ## Estrutura do Projeto
 
@@ -47,7 +47,7 @@ O projeto consiste nas seguintes tabelas:
 
 ## Imagem do Esquema em Snowflake
 
-![Snowflake Schema Diagram](link-para-imagem)
+![Snowflake Schema Diagram](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%209%20-%20DAX/img/snowflake.png)
 
 ## Funcionalidades e DAX Utilizadas
 
