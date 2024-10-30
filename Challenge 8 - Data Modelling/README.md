@@ -18,7 +18,7 @@ Criar um modelo dimensional baseado em um esquema estrela com as seguintes carac
 
 **Esquema Estrela**
 
-![Diagrama Esquema Estrela](link-to-image.png)
+![Diagrama Esquema Estrela](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%208%20-%20Data%20Modelling/img/starSchema.png)
 
 ### 3. Estrutura das Tabelas
 
