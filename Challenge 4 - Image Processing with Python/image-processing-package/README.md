@@ -13,13 +13,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-p
 pip install image-processing
 ```
 
-## Usage
-
-```python
-from image-processing.module1_name import file1_name
-file1_name.my_function()
-```
-
 ## Author
 
 Anacaloi

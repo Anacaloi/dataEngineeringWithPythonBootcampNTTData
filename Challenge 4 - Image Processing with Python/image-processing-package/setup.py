@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
-with open("README.md", r) as f:
+with open("README.md","r") as f:
     page_description = f.read()
 
 with open("requirements.txt") as f:
-      requirements - f.read().splitlines()
+      requirements = f.read().splitlines()
 
 setup(
-     name="package_name",
+     name="image_processing_anacaloi",
      version="0.0.1",
      author="anacaloi",
      author_email="",
-     description="",
+     description="basic image processing package",
      long_description=page_description,
      long_description_content_type="text/markdown",
      url="github repo",
