@@ -9,7 +9,7 @@ Este projeto consiste na criação de uma instância do MySQL Server na nuvem, s
 ### 1. Criação da Instância MySQL Server na Nuvem
 
 - Criação de um recurso de **Banco de Dados do Azure para MySQL** no [Portal do Azure](https://portal.azure.com) e configuração da instância conforme necessário.
-  ![instance](URL_da_Imagem)
+  ![instance](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%207%20-%20Data%20Sources/img/instance.png)
 
 ### 2. Criação e Inserção de Dados nas Tabelas
 
@@ -80,8 +80,8 @@ CREATE TABLE dependent (
 ### 3. Conexão e Importação de Tabelas no Power BI
 
 - Importação dos dados no **Power BI Desktop** no caminho **Obter Dados** > **Banco de Dados** > **MySQL**.
-  ![import](URL_da_Imagem)
-  ![schema](URL_da_Imagem)
+  ![import](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%207%20-%20Data%20Sources/img/import.png)
+  ![schema](https://github.com/Anacaloi/dataEngineeringWithPythonBootcampNTTData/blob/main/Challenge%207%20-%20Data%20Sources/img/schema.png)
 
 ## Referências
 
